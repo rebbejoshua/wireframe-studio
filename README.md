@@ -26,6 +26,15 @@ export default function App() {
 }
 ```
 
+### Local Development (For the Maintainer)
+When cloning this repository to a new workstation, run the following bash sequence to initialize and verify the library builder:
+```bash
+git clone https://github.com/rebbejoshua/wireframe-studio.git
+cd wireframe-studio
+npm install
+npm run build
+```
+
 ### Hotkeys
 - **`CMD+SHIFT+D`**: Toggles structural layout editing mode on/off globally. 
 - You can also use the absolute-positioned UI bubbles injected in the bottom right corner of the screen.
