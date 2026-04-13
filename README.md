@@ -36,5 +36,6 @@ npm run build
 ```
 
 ### Hotkeys
-- **`CMD+SHIFT+D`**: Toggles structural layout editing mode on/off globally. 
-- You can also use the absolute-positioned UI bubbles injected in the bottom right corner of the screen.
+- **`CMD+SHIFT+D`** (or **`CTRL+SHIFT+D`**): Toggles structural layout editing mode on/off globally. 
+- **`CTRL+SHIFT+S`**: Toggles Screenshot Mode. This hides all Wireframe Studio UI elements (including the command bubble) for clean captures. Since the UI button disappears, this shortcut is the only way to exit Screenshot Mode.
+- You can also use the absolute-positioned UI bubbles injected in the bottom right corner of the screen to quickly toggle these modes.
